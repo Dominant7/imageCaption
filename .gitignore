@@ -1,0 +1,13 @@
+checkFailureFigure.py
+generated_descriptions.txt
+getDescription.py
+workspace.code-workspace
+output/checkpoint-4900/config.json
+output/checkpoint-4900/generation_config.json
+output/checkpoint-4900/model.safetensors
+output/checkpoint-4900/special_tokens_map.json
+output/checkpoint-4900/tokenizer_config.json
+output/checkpoint-4900/tokenizer.json
+output/checkpoint-4900/vocab.txt
+Train/image_descriptions.json
+Val/image_descriptions.json
